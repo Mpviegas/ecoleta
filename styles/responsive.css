@@ -40,6 +40,12 @@
     }
 }
 
+@media (max-width: 455px) {
+    #page-search-results header a {
+        font-size: 14px;
+        margin-left: 20px;
+}
+
 @media (min-width: 1070px) { 
     #page-home {
         background-position-x: 30vw;
