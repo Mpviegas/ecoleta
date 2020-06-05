@@ -10,7 +10,7 @@ body::after {
     right: 0;
     left: 0;
     bottom: 0;
-    height: 16rem;
+    
     z-index: -1;
 }
 
